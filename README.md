@@ -1,8 +1,10 @@
-# Processo Seletivo Helpper - Programa de Estágio
+# Processo Seletivo Helpper
 
-## Teste prático
+Projeto desenvolvido como parte de um desafio prático para processo seletivo, com foco em organização de código, lógica de programação e construção de interface utilizando HTML, CSS e JavaScript.  
+A aplicação simula uma interface funcional seguindo os requisitos propostos no desafio.
 
-Você deverá enviar um link do seu github com:
+🔗 Acesse o projeto:  
+https://lucasferreiraprogramador.github.io/Processo-Seletivo-Helpper/
 
 1-Formulário de Cadastro de clientes contendo
 
@@ -32,5 +34,13 @@ Fiz um formulario simples e passei todos os dados cadastrados para o JavaScript 
 Pequei os dados no JavaScript e joguei dentro de um array e mostrei na tela com o innerHTML
 
 Depois exclui um dos dados com o splice
+
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Front-End.
 
 
